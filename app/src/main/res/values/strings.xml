@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing Features</string>
+    <string name="feature_title">Feature Title</string>
+    <string name="feature_description">description</string>
+    <string name="feature_date">01/01/2021</string>
+    <string name="save_contact_button_save">Save</string>
+</resources>
